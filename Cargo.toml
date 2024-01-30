@@ -1,5 +1,5 @@
 [package]
-name = "RustServerDamien"
+name = "rustserverdamien"
 version = "1.74.0"
 edition = "2021"
 
